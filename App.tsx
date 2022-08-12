@@ -65,7 +65,6 @@ export default function App() {
       <TextInput
         style={styles.mostrarResult}
         value={result}
-        // value={text}
         editable={false}
         multiline={true}
       />
